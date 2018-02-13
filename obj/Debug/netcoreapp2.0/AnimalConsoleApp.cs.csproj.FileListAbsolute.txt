@@ -1,0 +1,11 @@
+C:\Users\ATravers\source\repos\AnimalConsoleApp.cs\AnimalConsoleApp.cs\obj\Debug\netcoreapp2.0\AnimalConsoleApp.cs.csprojResolveAssemblyReference.cache
+C:\Users\ATravers\source\repos\AnimalConsoleApp.cs\AnimalConsoleApp.cs\obj\Debug\netcoreapp2.0\AnimalConsoleApp.cs.csproj.CoreCompileInputs.cache
+C:\Users\ATravers\source\repos\AnimalConsoleApp.cs\AnimalConsoleApp.cs\obj\Debug\netcoreapp2.0\AnimalConsoleApp.cs.AssemblyInfoInputs.cache
+C:\Users\ATravers\source\repos\AnimalConsoleApp.cs\AnimalConsoleApp.cs\obj\Debug\netcoreapp2.0\AnimalConsoleApp.cs.AssemblyInfo.cs
+C:\Users\ATravers\source\repos\AnimalConsoleApp.cs\AnimalConsoleApp.cs\bin\Debug\netcoreapp2.0\AnimalConsoleApp.cs.deps.json
+C:\Users\ATravers\source\repos\AnimalConsoleApp.cs\AnimalConsoleApp.cs\bin\Debug\netcoreapp2.0\AnimalConsoleApp.cs.runtimeconfig.json
+C:\Users\ATravers\source\repos\AnimalConsoleApp.cs\AnimalConsoleApp.cs\bin\Debug\netcoreapp2.0\AnimalConsoleApp.cs.runtimeconfig.dev.json
+C:\Users\ATravers\source\repos\AnimalConsoleApp.cs\AnimalConsoleApp.cs\bin\Debug\netcoreapp2.0\AnimalConsoleApp.cs.dll
+C:\Users\ATravers\source\repos\AnimalConsoleApp.cs\AnimalConsoleApp.cs\bin\Debug\netcoreapp2.0\AnimalConsoleApp.cs.pdb
+C:\Users\ATravers\source\repos\AnimalConsoleApp.cs\AnimalConsoleApp.cs\obj\Debug\netcoreapp2.0\AnimalConsoleApp.cs.dll
+C:\Users\ATravers\source\repos\AnimalConsoleApp.cs\AnimalConsoleApp.cs\obj\Debug\netcoreapp2.0\AnimalConsoleApp.cs.pdb
