@@ -9,9 +9,10 @@ namespace AnimalConsoleApp.cs
         public Cat(string name, int age, string status) : base(age, 4, name, "cat", status)
         { }
 
-        public override void Introduce()
+        public override string Introduce() 
         {
-            return + $"  Meow!"
+            return base.Introduce() + "  Meow";
+           // Console.WriteLine("  Meow!");
         }
 
 
